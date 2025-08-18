@@ -25,9 +25,7 @@ function verificarIntento(){
          listadeAmigos.push(amigo); 
      }
        
-
 }
-
 
 //implementa una funcion para actualizar la lista de amigos
 
